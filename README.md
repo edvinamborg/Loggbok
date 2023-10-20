@@ -20,3 +20,10 @@ idag var jag sjuk men jag kunde ändå göra klart tutorialen om Sprite animatio
 Jag tyckte väl till en början att arraysen "animationStates" och "spriteAnimations" var lite krångliga att hålla koll på med alla objekt och arrays inuti varandra, men det var inget som jag till slutförstod. Annars var det inga konstigheter
 
 
+
+20/10 - 2023
+---
+
+Idag fortsatte jag med Freecodecamp-kursen om Objektorienterad Javascript. Jag stötte inte på några problem och blev klar med 90%
+
+
