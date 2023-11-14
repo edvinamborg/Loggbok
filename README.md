@@ -27,3 +27,30 @@ Jag tyckte väl till en början att arraysen "animationStates" och "spriteAnimat
 Idag fortsatte jag med Freecodecamp-kursen om Objektorienterad Javascript. Jag stötte inte på några problem och blev klar med 90%
 
 
+07/11 - 2023
+---
+
+Idag började jag att arbeta med klasser och objekt igen i C#. Jag började med uppgiften "PictureHouse" där jag skapade objekt, till exempel fönster eller sol, med hjälp av klasserna som var formerna
+
+
+
+
+10/11 - 2023
+---
+
+Idag gjorde jag ett klassdiagram och fick lite problem när jag försökte commita min kod till Github som jag glömde förra gången. Det var för att jag försökte commita till ditt repository, så jag kopierade bara alla filer till en ny mapp och commitade den istället.
+
+
+
+14/11 - 2023
+---
+
+Vilka objektvariabler finns?
+Diameter
+xPosition
+yPosition
+isVisible
+color
+
+Hur skriver man för att få en objektvariabel?
+"private <datatyp> <variabelnamn>"
