@@ -53,4 +53,4 @@ isVisible
 color
 
 Hur skriver man för att få en objektvariabel?
-"private <datatyp> <variabelnamn>"
+"private 'datatyp' 'variabelnamn'"
