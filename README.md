@@ -54,3 +54,10 @@ color
 
 Hur skriver man för att få en objektvariabel?
 "private 'datatyp' 'variabelnamn'"
+
+
+
+17/11 - 2023
+---
+
+Idag gjorde jag klart alla uppgifter under "4021 Klasser och Objekt". Se bilden för lösning
