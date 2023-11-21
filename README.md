@@ -55,6 +55,23 @@ color
 Hur skriver man för att få en objektvariabel?
 "private 'datatyp' 'variabelnamn'"
 
+21/11-2023
+---
+Idag gjorde jag 4022 "Dice". Jag blev klar med hela. Jag fastande lite när jag skulle lägga till objektvariabler via Design-läget. Rikard hjälpte mig dock på ett annat sätt och vi lade bara till dem som vanligt i koden istället. Annars gick det rätt felfritt. Jag har också lagt till bilderna "Objektdiagram" och "Klassdiagram" som tillhör uppgiften 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 17/11 - 2023
