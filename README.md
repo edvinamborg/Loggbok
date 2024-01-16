@@ -71,6 +71,10 @@ Idag gjorde jag 4022 "Dice". Jag blev klar med hela. Jag fastande lite när jag 
 
 
 
+16/1 - 2024
+---
+Idag gjorde jag Uppgift 4030 samt 4031 (intro arv Animal). Det gick väldigt bra men när jag kom till 4031 och skulle använda mig av överklassen Animal så skrev jag om koden lite eftersom jag innan hade hård-kodat vilja ljud djuren skulle göra i sina respektiva Act() metoder. Så jag lade till en variabel "sound" i Animal och gav den ett värde i varje djurs konstruktor-funktion.
+
 
 
 
